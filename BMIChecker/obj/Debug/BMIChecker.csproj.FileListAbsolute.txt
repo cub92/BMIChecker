@@ -1,0 +1,10 @@
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\bin\Debug\BMIChecker.exe.config
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\bin\Debug\BMIChecker.exe
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\bin\Debug\BMIChecker.pdb
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.csprojAssemblyReference.cache
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.Properties.Resources.resources
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.csproj.GenerateResource.cache
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.csproj.CoreCompileInputs.cache
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.exe
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.pdb
+C:\Users\OC\source\repos\BMIChecker\BMIChecker\obj\Debug\BMIChecker.FormBMIChecker.resources
